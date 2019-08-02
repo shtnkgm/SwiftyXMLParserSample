@@ -1,0 +1,16 @@
+PODS:
+  - SwiftyXMLParser (5.0.0)
+
+DEPENDENCIES:
+  - SwiftyXMLParser
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SwiftyXMLParser
+
+SPEC CHECKSUMS:
+  SwiftyXMLParser: 5ebb8793192f403fa8cc691045143906122a7a75
+
+PODFILE CHECKSUM: 8caaa23d1762b71826db338ef0d27941d612b1d5
+
+COCOAPODS: 1.7.5
